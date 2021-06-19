@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-docs/guides/index",
+  "id": "user-docs/guides/index",
+  "isDocsHomePage": false,
+  "title": "Guides utilisateur",
+  "description": "Cette section regroupe les guides de récupération des archives de données personelles pour chaque service supporté par D4Data. Utilisez les liens ci-dessous pour y accéder.",
+  "source": "@site/docs/user-docs/guides/index.md",
+  "sourceDirName": "user-docs/guides",
+  "slug": "/user-docs/guides/index",
+  "permalink": "/docs/user-docs/guides/index",
+  "editUrl": "#/docs/user-docs/guides/index.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Gravatar",
+    "permalink": "/docs/user-docs/guides/gravatar-guide"
+  }
+}

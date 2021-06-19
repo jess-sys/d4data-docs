@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "user-docs/index",
+          "mainDocId": "user-docs/guides/index",
           "docs": [
             {
               "id": "technical-docs/index",
@@ -16,8 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "user-docs/index",
-              "path": "/docs/user-docs/index",
+              "id": "user-docs/guides/gravatar-guide",
+              "path": "/docs/user-docs/guides/gravatar-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-docs/guides/index",
+              "path": "/docs/user-docs/guides/index",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -8,7 +8,7 @@
   "sourceDirName": "user-docs",
   "slug": "/user-docs/index",
   "permalink": "/docs/user-docs/index",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/index.md",
+  "editUrl": "#/docs/user-docs/index.md",
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Getting started",
-    "permalink": "/docs/technical-docs/index"
+    "title": "index",
+    "permalink": "/docs/user-docs/guides/index"
   }
 }

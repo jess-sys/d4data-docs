@@ -7,12 +7,24 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "User documentation",
+        "label": "Documentation utilisateur",
         "items": [
           {
-            "type": "link",
-            "label": "Guides utilisateur",
-            "href": "/docs/user-docs/index"
+            "type": "category",
+            "label": "Récupération des archives",
+            "items": [
+              {
+                "type": "link",
+                "label": "Guides utilisateur",
+                "href": "/docs/user-docs/guides/index"
+              },
+              {
+                "type": "link",
+                "label": "Gravatar",
+                "href": "/docs/user-docs/guides/gravatar-guide"
+              }
+            ],
+            "collapsed": true
           }
         ],
         "collapsed": true
@@ -33,6 +45,7 @@
   },
   "permalinkToSidebar": {
     "/docs/technical-docs/index": "tutorialSidebar",
-    "/docs/user-docs/index": "tutorialSidebar"
+    "/docs/user-docs/guides/gravatar-guide": "tutorialSidebar",
+    "/docs/user-docs/guides/index": "tutorialSidebar"
   }
 }

@@ -22,7 +22,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'user-docs/index',
+          docId: 'user-docs/guides/index',
           position: 'left',
           label: 'Documentation utilisateur',
         },
@@ -33,9 +33,20 @@ module.exports = {
           label: 'Documentation technique',
         },
         {
-          href: 'https://github.com/d4data-official/docusaurus',
+          href: 'https://github.com/d4data-official',
           label: 'GitHub',
           position: 'right',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+          dropdownItemsBefore: [],
+          dropdownItemsAfter: [
+            {
+              to: '#',
+              label: 'Aidez-nous à traduire',
+            },
+          ],
         },
       ],
     },
@@ -77,7 +88,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/d4data-official',
             },
           ],
         },
@@ -96,7 +107,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            '#',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

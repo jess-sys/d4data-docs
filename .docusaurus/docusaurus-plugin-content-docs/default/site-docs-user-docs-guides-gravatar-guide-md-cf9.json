@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-docs/guides/gravatar-guide",
+  "id": "user-docs/guides/gravatar-guide",
+  "isDocsHomePage": false,
+  "title": "Gravatar",
+  "description": "Cette page vise à montrer la procédure de récupération d'une archive de données personnelles pour le service Gravatar.",
+  "source": "@site/docs/user-docs/guides/gravatar-guide.md",
+  "sourceDirName": "user-docs/guides",
+  "slug": "/user-docs/guides/gravatar-guide",
+  "permalink": "/docs/user-docs/guides/gravatar-guide",
+  "editUrl": "#/docs/user-docs/guides/gravatar-guide.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guides utilisateur",
+    "permalink": "/docs/user-docs/guides/index"
+  },
+  "next": {
+    "title": "Getting started",
+    "permalink": "/docs/technical-docs/index"
+  }
+}

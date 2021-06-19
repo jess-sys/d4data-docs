@@ -18,7 +18,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "user-docs/index",
+          "docId": "user-docs/guides/index",
           "position": "left",
           "label": "Documentation utilisateur",
           "activeSidebarClassName": "navbar__link--active"
@@ -31,9 +31,20 @@ export default {
           "activeSidebarClassName": "navbar__link--active"
         },
         {
-          "href": "https://github.com/d4data-official/docusaurus",
+          "href": "https://github.com/d4data-official",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": [
+            {
+              "to": "#",
+              "label": "Aidez-nous à traduire"
+            }
+          ]
         }
       ],
       "hideOnScroll": false
@@ -76,7 +87,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/d4data-official"
             }
           ]
         }
@@ -300,7 +311,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/jess-sys/repos/epitech/d4data-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "#"
         },
         "theme": {
           "customCss": "/home/jess-sys/repos/epitech/d4data-docs/src/css/custom.css"

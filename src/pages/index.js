@@ -1,4 +1,5 @@
 import React from 'react';
+import  { Redirect } from 'react-router-dom'
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -27,8 +28,6 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout>
-
-    </Layout>
+    <Redirect to='/docs/user-docs/guides/index'/>
   );
 }

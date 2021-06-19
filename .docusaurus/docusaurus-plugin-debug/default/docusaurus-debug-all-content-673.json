@@ -6,23 +6,34 @@
           "versionName": "current",
           "versionLabel": "Next",
           "versionPath": "/docs",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "#/docs",
+          "versionEditUrlLocalized": "#/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/jess-sys/repos/epitech/d4data-docs/sidebars.js",
           "contentPath": "/home/jess-sys/repos/epitech/d4data-docs/docs",
           "contentPathLocalized": "/home/jess-sys/repos/epitech/d4data-docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "user-docs/index",
+          "mainDocId": "user-docs/guides/index",
           "sidebars": {
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "User documentation",
+                "label": "Documentation utilisateur",
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "user-docs/index"
+                    "type": "category",
+                    "label": "Récupération des archives",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-docs/guides/index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "user-docs/guides/gravatar-guide"
+                      }
+                    ],
+                    "collapsed": true
                   }
                 ],
                 "collapsed": true
@@ -42,7 +53,8 @@
           },
           "permalinkToSidebar": {
             "/docs/technical-docs/index": "tutorialSidebar",
-            "/docs/user-docs/index": "tutorialSidebar"
+            "/docs/user-docs/guides/gravatar-guide": "tutorialSidebar",
+            "/docs/user-docs/guides/index": "tutorialSidebar"
           },
           "docs": [
             {
@@ -55,7 +67,7 @@
               "sourceDirName": "technical-docs",
               "slug": "/technical-docs/index",
               "permalink": "/docs/technical-docs/index",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/index.md",
+              "editUrl": "#/docs/technical-docs/index.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -63,21 +75,47 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Guides utilisateur",
-                "permalink": "/docs/user-docs/index"
+                "title": "Gravatar",
+                "permalink": "/docs/user-docs/guides/gravatar-guide"
               }
             },
             {
-              "unversionedId": "user-docs/index",
-              "id": "user-docs/index",
+              "unversionedId": "user-docs/guides/gravatar-guide",
+              "id": "user-docs/guides/gravatar-guide",
+              "isDocsHomePage": false,
+              "title": "Gravatar",
+              "description": "Cette page vise à montrer la procédure de récupération d'une archive de données personnelles pour le service Gravatar.",
+              "source": "@site/docs/user-docs/guides/gravatar-guide.md",
+              "sourceDirName": "user-docs/guides",
+              "slug": "/user-docs/guides/gravatar-guide",
+              "permalink": "/docs/user-docs/guides/gravatar-guide",
+              "editUrl": "#/docs/user-docs/guides/gravatar-guide.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guides utilisateur",
+                "permalink": "/docs/user-docs/guides/index"
+              },
+              "next": {
+                "title": "Getting started",
+                "permalink": "/docs/technical-docs/index"
+              }
+            },
+            {
+              "unversionedId": "user-docs/guides/index",
+              "id": "user-docs/guides/index",
               "isDocsHomePage": false,
               "title": "Guides utilisateur",
-              "description": "Cette page liste les guides utilisateur",
-              "source": "@site/docs/user-docs/index.md",
-              "sourceDirName": "user-docs",
-              "slug": "/user-docs/index",
-              "permalink": "/docs/user-docs/index",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/index.md",
+              "description": "Cette section regroupe les guides de récupération des archives de données personelles pour chaque service supporté par D4Data. Utilisez les liens ci-dessous pour y accéder.",
+              "source": "@site/docs/user-docs/guides/index.md",
+              "sourceDirName": "user-docs/guides",
+              "slug": "/user-docs/guides/index",
+              "permalink": "/docs/user-docs/guides/index",
+              "editUrl": "#/docs/user-docs/guides/index.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
@@ -85,8 +123,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Getting started",
-                "permalink": "/docs/technical-docs/index"
+                "title": "Gravatar",
+                "permalink": "/docs/user-docs/guides/gravatar-guide"
               }
             }
           ]
