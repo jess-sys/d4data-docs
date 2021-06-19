@@ -45,8 +45,12 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "User docs",
+              "to": "/docs/user-docs/index"
+            },
+            {
+              "label": "Technical docs",
+              "to": "/docs/technical-docs/index"
             }
           ]
         },
