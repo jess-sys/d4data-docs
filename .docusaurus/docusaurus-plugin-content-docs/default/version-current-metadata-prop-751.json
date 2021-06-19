@@ -22,6 +22,11 @@
                 "type": "link",
                 "label": "Gravatar",
                 "href": "/docs/user-docs/guides/gravatar-guide"
+              },
+              {
+                "type": "link",
+                "label": "Google",
+                "href": "/docs/user-docs/guides/google-guide"
               }
             ],
             "collapsed": true
@@ -45,6 +50,7 @@
   },
   "permalinkToSidebar": {
     "/docs/technical-docs/index": "tutorialSidebar",
+    "/docs/user-docs/guides/google-guide": "tutorialSidebar",
     "/docs/user-docs/guides/gravatar-guide": "tutorialSidebar",
     "/docs/user-docs/guides/index": "tutorialSidebar"
   }

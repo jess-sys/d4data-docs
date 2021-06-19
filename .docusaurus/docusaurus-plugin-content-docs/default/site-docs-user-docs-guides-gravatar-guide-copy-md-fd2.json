@@ -1,14 +1,14 @@
 {
-  "unversionedId": "user-docs/guides/gravatar-guide",
-  "id": "user-docs/guides/gravatar-guide",
+  "unversionedId": "user-docs/guides/gravatar-guide copy",
+  "id": "user-docs/guides/gravatar-guide copy",
   "isDocsHomePage": false,
   "title": "Gravatar",
   "description": "Cette page vise à montrer la procédure de récupération d'une archive de données personnelles pour le service Gravatar.",
-  "source": "@site/docs/user-docs/guides/gravatar-guide.md",
+  "source": "@site/docs/user-docs/guides/gravatar-guide copy.md",
   "sourceDirName": "user-docs/guides",
-  "slug": "/user-docs/guides/gravatar-guide",
-  "permalink": "/docs/user-docs/guides/gravatar-guide",
-  "editUrl": "#/docs/user-docs/guides/gravatar-guide.md",
+  "slug": "/user-docs/guides/gravatar-guide copy",
+  "permalink": "/docs/user-docs/guides/gravatar-guide copy",
+  "editUrl": "#/docs/user-docs/guides/gravatar-guide copy.md",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/user-docs/guides/index"
   },
   "next": {
-    "title": "Google",
-    "permalink": "/docs/user-docs/guides/google-guide"
+    "title": "Gravatar",
+    "permalink": "/docs/user-docs/guides/gravatar-guide"
   }
 }

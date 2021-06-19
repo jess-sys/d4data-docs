@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "user-docs/guides/google-guide",
+              "path": "/docs/user-docs/guides/google-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "user-docs/guides/gravatar-guide",
               "path": "/docs/user-docs/guides/gravatar-guide",
               "sidebar": "tutorialSidebar"

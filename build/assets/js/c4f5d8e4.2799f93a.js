@@ -1,1 +1,0 @@
-(self.webpackChunkd_4_data_docs=self.webpackChunkd_4_data_docs||[]).push([[195],{9526:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return d}});var u=t(7294),a=t(9349),c=(t(6742),t(2263));function d(){(0,c.Z)().siteConfig;return u.createElement(a.Z,null)}}}]);

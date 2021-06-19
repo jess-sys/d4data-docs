@@ -3,7 +3,7 @@
   "id": "user-docs/index",
   "isDocsHomePage": false,
   "title": "Guides utilisateur",
-  "description": "Cette page liste les guides utilisateur",
+  "description": "Cette section regroupe les guides de récupération des archives de données personelles pour chaque service supporté par D4Data. Utilisez les liens ci-dessous pour y accéder.",
   "source": "@site/docs/user-docs/index.md",
   "sourceDirName": "user-docs",
   "slug": "/user-docs/index",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "index",
+    "title": "Guides utilisateur",
     "permalink": "/docs/user-docs/guides/index"
   }
 }

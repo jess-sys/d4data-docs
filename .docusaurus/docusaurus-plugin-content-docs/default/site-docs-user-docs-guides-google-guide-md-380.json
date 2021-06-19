@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-docs/guides/google-guide",
+  "id": "user-docs/guides/google-guide",
+  "isDocsHomePage": false,
+  "title": "Google",
+  "description": "Cette page vise à montrer la procédure de récupération d'une archive de données personnelles pour le service Google.",
+  "source": "@site/docs/user-docs/guides/google-guide.md",
+  "sourceDirName": "user-docs/guides",
+  "slug": "/user-docs/guides/google-guide",
+  "permalink": "/docs/user-docs/guides/google-guide",
+  "editUrl": "#/docs/user-docs/guides/google-guide.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gravatar",
+    "permalink": "/docs/user-docs/guides/gravatar-guide"
+  },
+  "next": {
+    "title": "Getting started",
+    "permalink": "/docs/technical-docs/index"
+  }
+}

@@ -13,7 +13,7 @@ Assurez-vous d'être connecté à votre compte Gravatar sur le site https://fr.g
 
 La page suivante devrait s'afficher:
 
-![INSERT_IMAGE_GRAVATAR_DATA_EXPORT](/img/INSERT_IMAGE_GRAVATAR_DATA_EXPORT.png)
+![INSERT_IMAGE_GRAVATAR_DATA_EXPORT](/img/guides/gravatar/INSERT_IMAGE_GRAVATAR_DATA_EXPORT.png)
 
 INSERT_IMAGE_GRAVATAR_DATA_EXPORT
 
@@ -26,12 +26,12 @@ Vous recevrez par la suite votre archive de données par e-mail, sur l'adresse p
 
 A la suite de votre demande, un e-mail contenant l'archive (en pièce-jointe) vous a été envoyé sur l'adresse e-mail principale associée à votre compte Gravatar.
 
-Cet e-mail a comme expéditeur : donotreply@gravatar.com. 
-Cet e-mail a comme objet : [Gravatar] Your Data Export Request
+* Expéditeur : donotreply@gravatar.com. 
+* Objet : [Gravatar] Your Data Export Request
 
 C.f. la capture d'écran ci-dessous:
 
-![INSERT_IMAGE_GRAVATAR_EMAIL](/img/INSERT_IMAGE_GRAVATAR_EMAIL.png)
+![INSERT_IMAGE_GRAVATAR_EMAIL](/img/guides/gravatar/INSERT_IMAGE_GRAVATAR_EMAIL.png)
 
 Téléchargez ensuite le fichier en pièce-jointe. Vous pouvez maintenant explorer cette archive sur l'application D4Data.
 

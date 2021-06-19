@@ -7,7 +7,7 @@ module.exports = {
   tagline: 'Prenez le contrôle de vos données personnelles',
   url: 'https://docs.d4data.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'd4data-official', // Usually your GitHub org/user name.
