@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-docs/index",
+  "id": "user-docs/index",
+  "isDocsHomePage": false,
+  "title": "Guides utilisateur",
+  "description": "Cette page liste les guides utilisateur",
+  "source": "@site/docs/user-docs/index.md",
+  "sourceDirName": "user-docs",
+  "slug": "/user-docs/index",
+  "permalink": "/docs/user-docs/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/index.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting started",
+    "permalink": "/docs/technical-docs/index"
+  }
+}

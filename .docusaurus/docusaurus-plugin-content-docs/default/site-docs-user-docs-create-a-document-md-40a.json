@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-docs/create-a-document",
+  "id": "user-docs/create-a-document",
+  "isDocsHomePage": false,
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/user-docs/create-a-document.md",
+  "sourceDirName": "user-docs",
+  "slug": "/user-docs/create-a-document",
+  "permalink": "/docs/user-docs/create-a-document",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/create-a-document.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/user-docs/create-a-blog-post"
+  }
+}

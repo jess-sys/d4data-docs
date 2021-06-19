@@ -1,0 +1,120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/jess-sys/repos/epitech/d4data-docs/sidebars.js",
+          "contentPath": "/home/jess-sys/repos/epitech/d4data-docs/docs",
+          "contentPathLocalized": "/home/jess-sys/repos/epitech/d4data-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "user-docs/index",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "User documentation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "user-docs/index"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Technical documentation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "technical-docs/index"
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/technical-docs/index": "tutorialSidebar",
+            "/docs/user-docs/index": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "technical-docs/index",
+              "id": "technical-docs/index",
+              "isDocsHomePage": false,
+              "title": "Getting started",
+              "description": "* Clone the repo (git clone)",
+              "source": "@site/docs/technical-docs/index.md",
+              "sourceDirName": "technical-docs",
+              "slug": "/technical-docs/index",
+              "permalink": "/docs/technical-docs/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/index.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guides utilisateur",
+                "permalink": "/docs/user-docs/index"
+              }
+            },
+            {
+              "unversionedId": "user-docs/index",
+              "id": "user-docs/index",
+              "isDocsHomePage": false,
+              "title": "Guides utilisateur",
+              "description": "Cette page liste les guides utilisateur",
+              "source": "@site/docs/user-docs/index.md",
+              "sourceDirName": "user-docs",
+              "slug": "/user-docs/index",
+              "permalink": "/docs/user-docs/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/index.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Getting started",
+                "permalink": "/docs/technical-docs/index"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

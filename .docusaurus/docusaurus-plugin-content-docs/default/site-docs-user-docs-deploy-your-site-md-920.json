@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-docs/deploy-your-site",
+  "id": "user-docs/deploy-your-site",
+  "isDocsHomePage": false,
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/user-docs/deploy-your-site.md",
+  "sourceDirName": "user-docs",
+  "slug": "/user-docs/deploy-your-site",
+  "permalink": "/docs/user-docs/deploy-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/deploy-your-site.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/user-docs/create-a-blog-post"
+  }
+}

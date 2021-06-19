@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-docs/create-a-blog-post",
+  "id": "user-docs/create-a-blog-post",
+  "isDocsHomePage": false,
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/user-docs/create-a-blog-post.md",
+  "sourceDirName": "user-docs",
+  "slug": "/user-docs/create-a-blog-post",
+  "permalink": "/docs/user-docs/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/user-docs/create-a-blog-post.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar"
+}

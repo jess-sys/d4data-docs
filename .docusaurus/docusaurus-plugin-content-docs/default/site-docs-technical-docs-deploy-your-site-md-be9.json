@@ -1,0 +1,22 @@
+{
+  "unversionedId": "technical-docs/deploy-your-site",
+  "id": "technical-docs/deploy-your-site",
+  "isDocsHomePage": false,
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/technical-docs/deploy-your-site.md",
+  "sourceDirName": "technical-docs",
+  "slug": "/technical-docs/deploy-your-site",
+  "permalink": "/docs/technical-docs/deploy-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/deploy-your-site.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/technical-docs/markdown-features"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "technicaldocs",
+  "id": "technicaldocs",
+  "isDocsHomePage": false,
+  "title": "Technical documentation",
+  "description": "Test",
+  "source": "@site/docs/technicaldocs.md",
+  "sourceDirName": ".",
+  "slug": "/technicaldocs",
+  "permalink": "/docs/technicaldocs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technicaldocs.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User documentation",
+    "permalink": "/docs/userdocs"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "user-docs/index",
+          "docs": [
+            {
+              "id": "technical-docs/index",
+              "path": "/docs/technical-docs/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-docs/index",
+              "path": "/docs/user-docs/index",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

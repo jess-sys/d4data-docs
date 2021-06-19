@@ -1,0 +1,22 @@
+{
+  "unversionedId": "technical-docs/index",
+  "id": "technical-docs/index",
+  "isDocsHomePage": false,
+  "title": "Getting started",
+  "description": "* Clone the repo (git clone)",
+  "source": "@site/docs/technical-docs/index.md",
+  "sourceDirName": "technical-docs",
+  "slug": "/technical-docs/index",
+  "permalink": "/docs/technical-docs/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/index.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guides utilisateur",
+    "permalink": "/docs/user-docs/index"
+  }
+}

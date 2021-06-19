@@ -1,0 +1,22 @@
+{
+  "unversionedId": "technical-docs/congratulations",
+  "id": "technical-docs/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/technical-docs/congratulations.md",
+  "sourceDirName": "technical-docs",
+  "slug": "/technical-docs/congratulations",
+  "permalink": "/docs/technical-docs/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/congratulations.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/technical-docs/deploy-your-site"
+  }
+}

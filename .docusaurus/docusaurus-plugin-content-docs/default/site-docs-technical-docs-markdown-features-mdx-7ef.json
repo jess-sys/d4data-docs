@@ -1,0 +1,22 @@
+{
+  "unversionedId": "technical-docs/markdown-features",
+  "id": "technical-docs/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/technical-docs/markdown-features.mdx",
+  "sourceDirName": "technical-docs",
+  "slug": "/technical-docs/markdown-features",
+  "permalink": "/docs/technical-docs/markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/technical-docs/markdown-features.mdx",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/user-docs/congratulations"
+  }
+}

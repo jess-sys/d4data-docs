@@ -1,0 +1,22 @@
+{
+  "unversionedId": "userdocs",
+  "id": "userdocs",
+  "isDocsHomePage": false,
+  "title": "User documentation",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/userdocs.md",
+  "sourceDirName": ".",
+  "slug": "/userdocs",
+  "permalink": "/docs/userdocs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/userdocs.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}
