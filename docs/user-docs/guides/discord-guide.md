@@ -30,3 +30,6 @@ Reproduisez les étapes précédemment effectuées pour demander votre archive j
 
 Si votre archive est prête à être récupérée vous devriez voir un bouton “<archive_dowload_button_label>”, cliquez dessus pour télécharger votre archive Discord sur votre ordinateur.
 
+## Conseils de sécurité
+
+Pensez à supprimer l'archive de votre PC après utilisation.

@@ -33,3 +33,7 @@ Cliquez ensuite sur "Créer une exportation".
 Après quelques heures ou jours, revenez sur cette page. Vous pourrez ensuite télécharger l'archive.
 
 ![INSERT_IMAGE_GOOGLE_TAKEOUT_DOWNLOAD](/img/guides/google/INSERT_IMAGE_GOOGLE_TAKEOUT_DOWNLOAD.png)
+
+## Conseils de sécurité
+
+Pensez à supprimer l'archive de votre PC après utilisation.
