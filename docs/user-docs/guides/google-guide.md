@@ -16,6 +16,8 @@ Créez un rapport. Descendez en bas puis cliquez sur "étape suivante".
 
 ![INSERT_IMAGE_GOOGLE_TAKEOUT_NEXT_STEP](/img/guides/google/INSERT_IMAGE_GOOGLE_TAKEOUT_NEXT_STEP.png)
 
+Dé-séléctionnez "Drive" : ces données sont volumineuses et peu pertinentes.
+
 Cliquez sur "2Go" et séléctionnez "50Go"
 
 ![INSERT_IMAGE_GOOGLE_TAKEOUT_ARCHIVE_SIZE](/img/guides/google/INSERT_IMAGE_GOOGLE_TAKEOUT_ARCHIVE_SIZE.png)
