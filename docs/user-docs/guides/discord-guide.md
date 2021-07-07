@@ -12,7 +12,7 @@ Assurez-vous d'être connecté à votre compte Discord sur votre ordinateur.
 
 Cliquez ensuite sur le bouton paramètre
 
-![INSERT_IMAGE_DISCORD_PARAM](/img/guides/discordINSERT_IMAGE_DISCORD_PARAM.png/INSERT_IMAGE_DISCORD_PARAM.png)
+![INSERT_IMAGE_DISCORD_PARAM](/img/guides/discord/INSERT_IMAGE_DISCORD_PARAM.png)
 
 Dirigez-vous ensuite vers l'onglet "Confidentialité et Sécurité". Puis rendez vous en bas de la page.
 
