@@ -11,13 +11,13 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'd4data-official', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'd4data-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'D4Data',
       logo: {
         alt: 'D4Data Logo',
-        src: 'https://d4data.org/static/media/logo.bccd4a12.svg',
+        src: 'https://d4data.org/images/d4data_128.png',
       },
       items: [
         {
